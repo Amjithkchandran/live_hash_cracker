@@ -1,34 +1,34 @@
-																				Hash Checker and Cracker Tool
-	Overview
-			This Python tool is designed to check and crack hash values using various hashing algorithms. It supports common algorithms like MD5, SHA-1, SHA-256, and more. The tool allows you to manually input 				words to check against a hash or use a wordlist for a more comprehensive attack.
+Hash Checker and Cracker Tool
+Overview
+	This Python tool is designed to check and crack hash values using various hashing algorithms. It supports common algorithms like MD5, SHA-1, SHA-256, and more. The tool allows you to manually input 	words to check against a hash or use a wordlist for a more comprehensive attack.
 
-	Features
-		Detects hash types based on hash length.
-		Supports multiple hashing algorithms including MD5, SHA-1, SHA-256, SHA3 variants, and BLAKE2.
-		Allows checking against a list of words or a wordlist file.
-		Provides clear output when a password match is found.
-		Requirements
-		Python 3.x
-		No external libraries required
+Features
+	Detects hash types based on hash length.
+	Supports multiple hashing algorithms including MD5, SHA-1, SHA-256, SHA3 variants, and BLAKE2.
+	Allows checking against a list of words or a wordlist file.
+	Provides clear output when a password match is found.
+	Requirements
+	Python 3.x
+	No external libraries required
   
-	Installation
-		Clone the repository:
+Installation
+	Clone the repository:
 
-							git clone https://github.com/Amjithkchandran/live_hash_cracker.git
-							
-							cd hash-cracker-tool
+		git clone https://github.com/Amjithkchandran/live_hash_cracker.git
+		
+		cd hash-cracker-tool
 
-	Install dependencies:
+Install dependencies:
 
-		No additional dependencies are required beyond Python's standard library.
+	No additional dependencies are required beyond Python's standard library.
 
-	Usage
-		Run the tool:
+Usage
+	Run the tool:
 
 	Copy code
- 		D:\live_hash_cracker> python hash_cracker_tool.py
+		D:\live_hash_cracker> python hash_cracker_tool.py
 	
- 	Enter the hash value when prompted.
+	Enter the hash value when prompted.
 
 	Choose an option:
 
@@ -68,10 +68,7 @@
   
 		Contributing
   
-	If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code follows the existing style and is well-tested.
+If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code follows the existing style and is well-tested.
 
-	License
-		This project is licensed under the MIT License - see the LICENSE file for details.
-
-	Contact
-		For any questions or support, please open an issue in the GitHub repository or contact amjithk1995@gmail.com.
+License
+	This project is licensed under the MIT License - see the LICENSE file for details.
